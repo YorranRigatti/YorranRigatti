@@ -29,6 +29,5 @@
 ![Python](https://img.shields.io/badge/Python-7343c0?style=for-the-badge&logo=python&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-7343c0?style=for-the-badge&logo=rust&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-6c46c5?style=for-the-badge&logo=mysql&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-654acb?style=for-the-badge&logo=spring&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-5d4ed0?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/git-5652d6?style=for-the-badge&logo=git&logoColor=white)
