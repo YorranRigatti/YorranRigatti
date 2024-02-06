@@ -9,8 +9,6 @@
         <img align="right" width="450" height="253" src="./assets/progamming.gif" alt="Imagem">
         <li>:mortar_board: computer engineering student @<a href="https://univesp.br/">Univesp</a></li>
         <li>:computer: Software Engineer</li>
-        <li>:books: Academic Future</li>
-        <li>🔭  I’m currently learning rust</li>
         <li>📫 How to reach me: <br/>
             <a href="https://www.linkedin.com/in/yorranrigatti/">
                 <img src="https://img.shields.io/badge/linkedin-6c46c5?style=for-the-badge&logo=linkedin&logoColor=white" />
