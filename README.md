@@ -1,7 +1,7 @@
 # Hey There! 👋
 
 ## I'm Yorran, welcome to my Github Profile
-:dart: ( Typescript | PHP | Rust | MYSQL)
+:dart: ( Typescript | PHP | Python | Rust | MYSQL)
 
 
 <div id="about-me">
@@ -24,9 +24,10 @@
 <br/>
 
 <!-- ## My interests -->
-![Rust](https://img.shields.io/badge/Rust-7343c0?style=for-the-badge&logo=rust&logoColor=white)
-![PHP](https://img.shields.io/badge/php-7a3fba?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-7343c0?style=for-the-badge&logo=javascript&logoColor=white)
+![PHP](https://img.shields.io/badge/php-7a3fba?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-7343c0?style=for-the-badge&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-7343c0?style=for-the-badge&logo=rust&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-6c46c5?style=for-the-badge&logo=mysql&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-654acb?style=for-the-badge&logo=spring&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-5d4ed0?style=for-the-badge&logo=docker&logoColor=white)
